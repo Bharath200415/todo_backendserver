@@ -14,5 +14,5 @@ module.exports = {
     updateTodo: updateTodo
 }
 
-app.use(express.json());
+
 
